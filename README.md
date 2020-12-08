@@ -5,4 +5,4 @@ Easily played, tested, or debugged using node.js in combination with live-server
 ##### Recommendations
 - node.js
 - cmder for command line code execution
-- live-server to view game
+- live-server to host port for browser viewing
